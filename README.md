@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/digital-atelier.png" alt="A glowing impossible world suspended inside a glass sphere" width="100%" />
+  <img src="./assets/studio-morning.gif" alt="A quiet workspace beside a rain-speckled window at sunrise" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Eeshitha&nbsp;👋</h1>
@@ -18,7 +18,7 @@
 
 ## Hello from the other side of the screen
 
-I'm Eeshitha—a curious maker drawn to the space between **logic and imagination**. I like learning by building, following odd ideas until they become something real, and polishing the tiny details most people never notice.
+I'm Eeshitha, a curious maker drawn to the space between **logic and imagination**. I like learning by building, following odd ideas until they become something real, and polishing the tiny details most people never notice.
 
 This profile is less of a résumé and more of a living studio: experiments, half-finished thoughts, small wins, and whatever I decide to make next.
 
