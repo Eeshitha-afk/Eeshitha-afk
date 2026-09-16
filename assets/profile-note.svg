@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">A field note about Eeshitha</title>
+  <desc id="desc">Eeshitha is a curious maker who learns by building and cares about thoughtful details.</desc>
+  <style>
+    .bg{fill:#f3efe4}.ink{fill:#121214}.soft{fill:#68645d}.rule{stroke:#121214;stroke-width:2}.accent{fill:#ff5c35}
+    .label{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:3px}.title{font:800 58px system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-3px}.body{font:500 22px system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-.3px}.key{font:700 12px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:2px}.value{font:650 18px system-ui,-apple-system,"Segoe UI",sans-serif}
+    .stamp{animation:pulse 3.5s ease-in-out infinite;transform-origin:1030px 315px}@keyframes pulse{0%,100%{transform:rotate(-3deg) scale(1)}50%{transform:rotate(1deg) scale(1.04)}}
+    @media(prefers-color-scheme:dark){.bg{fill:#141416}.ink{fill:#f3efe4}.soft{fill:#aaa59b}.rule{stroke:#f3efe4}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect class="bg" width="1200" height="390" rx="18"/><rect class="accent" x="0" y="0" width="22" height="390" rx="11"/>
+  <text class="accent title" x="66" y="88">01</text><text class="soft label" x="171" y="66">FIELD NOTE / THE SHORT VERSION</text><line class="rule" x1="171" y1="88" x2="1130" y2="88" opacity=".18"/>
+  <text class="ink title" x="66" y="176">CURIOUS BY DEFAULT.</text>
+  <text class="ink body" x="68" y="224"><tspan x="68" dy="0">I follow odd ideas until they become something real.</tspan><tspan x="68" dy="34">The tiny details matter. The learning matters more.</tspan></text>
+  <g transform="translate(70 325)"><text class="soft key">PROCESS</text><text class="ink value" x="108">WONDER / PROTOTYPE / BREAK / LEARN / REFINE</text></g>
+  <g class="stamp" transform="translate(952 277) rotate(-3)"><rect width="180" height="62" rx="4" fill="none" stroke="#ff5c35" stroke-width="3"/><text class="accent label" x="20" y="27">STATUS</text><text class="accent value" x="20" y="49">STILL LOADING</text></g>
+</svg>

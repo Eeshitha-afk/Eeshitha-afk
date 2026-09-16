@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+  <title id="title">Tools on Eeshitha's workbench</title><desc id="desc">HTML, CSS, JavaScript, Git, GitHub, and VS Code.</desc>
+  <style>
+    .bg{fill:#f3efe4}.ink{fill:#111113}.soft{fill:#777168}.accent{fill:#ff5c35}.label{font:700 12px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:3px}.tool{font:800 42px system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-2px}.cursor{animation:scan 6s ease-in-out infinite}@keyframes scan{0%,8%{transform:translateX(0)}45%,55%{transform:translateX(1000px)}92%,100%{transform:translateX(0)}}@media(prefers-color-scheme:dark){.bg{fill:#171719}.ink{fill:#f3efe4}.soft{fill:#aaa59b}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect class="bg" width="1200" height="245" rx="18"/><text class="soft label" x="55" y="52">TOOLS / NOT TROPHIES</text><rect class="accent cursor" x="55" y="73" width="90" height="6" rx="3"/>
+  <text class="ink tool" x="52" y="145">HTML</text><text class="soft tool" x="205" y="145">CSS</text><text class="ink tool" x="325" y="145">JAVASCRIPT</text><text class="soft tool" x="630" y="145">GIT</text><text class="ink tool" x="735" y="145">GITHUB</text><text class="soft tool" x="935" y="145">VS CODE</text><text class="soft label" x="55" y="205">THE STACK CHANGES. CURIOSITY STAYS.</text>
+</svg>
