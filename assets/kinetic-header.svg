@@ -2,9 +2,9 @@
   <title id="title">Eeshitha kinetic profile header</title>
   <desc id="desc">An animated editorial banner with the name Eeshitha and rotating creative statements.</desc>
   <style>
-    .background{fill:#0d0d0f}.frame{fill:none;stroke:#39383a;stroke-width:1}
-    .ink{fill:#f4f1e8}.muted{fill:#aaa7a0}.accent{fill:#ff5c35}
-    .line{fill:none;stroke:#39383a;stroke-width:1.4}.accent-line{fill:none;stroke:#ff5c35;stroke-width:2}
+    .background{fill:#0b1020}.frame{fill:none;stroke:#263557;stroke-width:1}
+    .ink{fill:#f7f7ed}.muted{fill:#9ba8c2}.accent{fill:#4aa8ff}.green{fill:#55d878}.yellow{fill:#f7d64a}.purple{fill:#9b7cff}
+    .line{fill:none;stroke:#334466;stroke-width:1.4}.accent-line{fill:none;stroke:#9b7cff;stroke-width:2}
     .name{font:800 140px/1 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-10px}
     .phrase{font:500 25px/1 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:-.5px}
     .micro{font:600 12px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px}
@@ -20,18 +20,18 @@
     @keyframes float-a{0%,100%{transform:translate(0,0)}50%{transform:translate(-18px,12px)}}
     @keyframes float-b{0%,100%{transform:translate(0,0)}50%{transform:translate(14px,-16px)}}
     @keyframes track{0%,12%{transform:translateX(0)}50%,62%{transform:translateX(510px)}100%{transform:translateX(0)}}
-    @keyframes phrase-one{0%,25%{opacity:1;transform:translateY(0)}31%,94%{opacity:0;transform:translateY(-9px)}100%{opacity:1;transform:translateY(0)}}
-    @keyframes phrase-two{0%,28%{opacity:0;transform:translateY(9px)}34%,59%{opacity:1;transform:translateY(0)}65%,100%{opacity:0;transform:translateY(-9px)}}
-    @keyframes phrase-three{0%,62%{opacity:0;transform:translateY(9px)}68%,93%{opacity:1;transform:translateY(0)}99%,100%{opacity:0;transform:translateY(-9px)}}
+    @keyframes phrase-one{0%,27%{opacity:1;transform:translateY(0)}29%,96%{opacity:0;transform:translateY(-9px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes phrase-two{0%,31%{opacity:0;transform:translateY(9px)}33%,60%{opacity:1;transform:translateY(0)}62%,100%{opacity:0;transform:translateY(-9px)}}
+    @keyframes phrase-three{0%,64%{opacity:0;transform:translateY(9px)}66%,93%{opacity:1;transform:translateY(0)}95%,100%{opacity:0;transform:translateY(-9px)}}
     @media(prefers-color-scheme:light){
-      .background{fill:#f5f2e9}.frame{stroke:#c9c4b9}.ink{fill:#111113}.muted{fill:#65615b}.accent{fill:#e7431b}.line{stroke:#c9c4b9}.accent-line{stroke:#e7431b}
+      .background{fill:#f3f7ff}.frame{stroke:#b8c7e3}.ink{fill:#10172b}.muted{fill:#58647c}.accent{fill:#287ad0}.green{fill:#168b50}.yellow{fill:#a97800}.purple{fill:#7554d1}.line{stroke:#bdc9df}.accent-line{stroke:#7554d1}
     }
     @media(prefers-reduced-motion:reduce){*{animation:none!important}.phrase-2,.phrase-3{display:none}}
   </style>
   <rect class="background" width="1200" height="420" rx="22"/>
   <rect class="frame" x="18" y="18" width="1164" height="384" rx="14"/>
   <text class="muted micro" x="70" y="68">GITHUB PROFILE / 2026</text>
-  <circle class="accent dot-a" cx="1128" cy="62" r="5"/>
+  <circle class="yellow dot-a" cx="1128" cy="62" r="5"/>
   <text class="muted micro" x="1018" y="68">ONLINE</text>
   <g class="reveal">
     <text class="ink name" x="61" y="216">EESHITHA</text>
@@ -39,8 +39,8 @@
   </g>
   <g transform="translate(72 301)">
     <text class="ink phrase phrase-1">I make digital things that feel alive.</text>
-    <text class="ink phrase phrase-2">Curiosity in. Better ideas out.</text>
-    <text class="ink phrase phrase-3">Build. Break. Learn. Refine.</text>
+    <text class="green phrase phrase-2">Curiosity in. Better ideas out.</text>
+    <text class="yellow phrase phrase-3">Build. Break. Learn. Refine.</text>
   </g>
   <line class="line" x1="72" y1="351" x2="582" y2="351"/>
   <rect class="accent tracker" x="72" y="346" width="34" height="10" rx="5"/>
@@ -49,8 +49,8 @@
     <ellipse class="line orbit-a" cx="1010" cy="210" rx="116" ry="155" transform="rotate(24 1010 210)"/>
     <ellipse class="accent-line orbit-b" cx="1010" cy="210" rx="82" ry="148" transform="rotate(-31 1010 210)"/>
     <ellipse class="line orbit-c" cx="1010" cy="210" rx="138" ry="64" transform="rotate(9 1010 210)"/>
-    <circle class="ink dot-b" cx="927" cy="99" r="8"/>
-    <circle class="accent dot-a" cx="1097" cy="318" r="12"/>
-    <circle class="muted" cx="1010" cy="210" r="4"/>
+    <circle class="green dot-b" cx="927" cy="99" r="8"/>
+    <circle class="yellow dot-a" cx="1097" cy="318" r="12"/>
+    <circle class="purple" cx="1010" cy="210" r="4"/>
   </g>
 </svg>
