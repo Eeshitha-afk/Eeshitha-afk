@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/kinetic-header.svg?v=2" alt="Animated Eeshitha profile header" width="100%" />
+  <img src="./assets/kinetic-header-v2.svg" alt="Animated Eeshitha profile header" width="100%" />
 </p>
 
 <p align="center">
@@ -12,17 +12,17 @@
 
 <br />
 
-<img src="./assets/profile-note.svg?v=2" alt="A short field note about Eeshitha" width="100%" />
+<img src="./assets/profile-note-v2.svg" alt="A short field note about Eeshitha" width="100%" />
 
 <br />
 
 <a href="https://github.com/Eeshitha-afk/brick-breaker">
-  <img src="./assets/project-brick-breaker.svg?v=2" alt="Brick Breaker, an animated browser game project poster" width="100%" />
+  <img src="./assets/project-brick-breaker-v2.svg" alt="Brick Breaker, an animated browser game project poster" width="100%" />
 </a>
 
 <br />
 
-<img src="./assets/tool-index.svg?v=2" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" width="100%" />
+<img src="./assets/tool-index-v2.svg" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" width="100%" />
 
 <br />
 
